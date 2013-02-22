@@ -7,6 +7,8 @@ import android.view.Menu;
 public class WellCome extends Activity {
 // frirst chanege of code
 	// seconde edite of code
+	//dfdfdfdfdf
+	//dfdfdfdf
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
