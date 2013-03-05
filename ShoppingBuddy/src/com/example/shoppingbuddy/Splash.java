@@ -24,10 +24,13 @@ public class Splash extends Activity {
 					//myIntent.putExtra("key",xx);
 				//	Splash.this.startActivity(myIntent);
 					
-				/*	String xx  = "loll";
+					String xx  = "loll";
 					Intent i = new Intent(getBaseContext(), Homepage.class);                      
 					i.putExtra("PersonID", xx);
-					startActivity(i);*/
+					startActivity(i);
+					// hey r u der? hmmm
+					// after u change some thing u can commit and push it to repository
+					// like this ..hmmmmmmmmmmmmmmmm
 					
 				}
 			}
