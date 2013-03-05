@@ -31,7 +31,15 @@ public class Splash extends Activity {
 					// hey r u der? hmmm
 					// after u change some thing u can commit and push it to repository
 					// like this ..hmmmmmmmmmmmmmmmm
+					// den una wage msj ekak awa kiyanne hariyata una kiyala
+					// neththam ara kalin wage erre ekak denne
+					//ok? clear? hmmmmm.. 
+					//kehel gahak kadan watuna :O mokak? nikanma? :O
+					//owww..malliga kamare paththen loku saddayak ahuna.janelen balanakota kehel gahak kadan watila :O
 					
+					// ok so now you can start MAD project
+					//now show me how to commit changesA? :O
+			
 				}
 			}
 		};
